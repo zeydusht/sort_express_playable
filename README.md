@@ -4,7 +4,7 @@ A working playable ad concept built for the Playable Factory Intern Product Mana
 (Task 1.3). Rather than submitting a static wireframe, the flow is implemented as a real,
 playable ad.
 
-**Live demo:* https://github.com/zeydusht/sort_express_playable
+**Live demo:* https://zeydusht.github.io/sort_express_playable/
 
 ## The mechanic
 
