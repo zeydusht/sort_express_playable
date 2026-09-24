@@ -1,6 +1,6 @@
 # Sort Express — Playable Ad Prototype
 
-A working playable ad concept built for the Playable Factory Intern Product Manager case
+A working playable ad concept built for the Circle Games Product Intern
 (Task 1.3). Rather than submitting a static wireframe, the flow is implemented as a real,
 playable ad.
 
